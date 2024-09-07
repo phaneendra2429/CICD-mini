@@ -25,6 +25,8 @@ This project demonstrates the implementation of a CI/CD pipeline for a Dockerize
    
 7. **Building and Deploying**
    - Setting up GitHub Actions to build and deploy the Docker image.
+   - ![image](https://github.com/user-attachments/assets/898de381-29a3-484a-a644-741503f67c4c)
+
    
 8. **Additional Configurations**
    - Customizing the CI/CD pipeline as per project requirements.
